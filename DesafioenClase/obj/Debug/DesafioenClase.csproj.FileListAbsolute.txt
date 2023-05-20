@@ -1,0 +1,57 @@
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\App.g.cs
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_Content.g.cs
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_MarkupCompile.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_MarkupCompile.lref
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\bin\Debug\Database1.mdf
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\bin\Debug\Database1_log.ldf
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.exe.config
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.exe
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.pdb
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\MainWindow.baml
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.g.resources
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.Properties.Resources.resources
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.GenerateResource.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.exe
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\bin\Debug\Database1.mdf
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\bin\Debug\Database1_log.ldf
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.exe.config
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.pdb
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.AssemblyReference.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\MainWindow.g.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\App.g.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_Content.g.cs
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_MarkupCompile.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_MarkupCompile.lref
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\MainWindow.baml
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.g.resources
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.Properties.Resources.resources
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.GenerateResource.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.CoreCompileInputs.cache
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.exe
+C:\Users\TECNO FACIL JALAPA\OneDrive\Escritorio\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.pdb
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\bin\Debug\Database1.mdf
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\bin\Debug\Database1_log.ldf
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.exe.config
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.exe
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\bin\Debug\DesafioenClase.pdb
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\App.g.cs
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_Content.g.cs
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_MarkupCompile.cache
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase_MarkupCompile.lref
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\MainWindow.baml
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.g.resources
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.Properties.Resources.resources
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.GenerateResource.cache
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.exe
+C:\Users\jorge\Escritorio\DesafioenClase\DesafioenClase\DesafioenClase\obj\Debug\DesafioenClase.pdb
